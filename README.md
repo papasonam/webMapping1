@@ -1,2 +1,3 @@
 # webMapping
-web mapping with leaflets
+## openLayers
+web mapping with openLayers
